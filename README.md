@@ -15,9 +15,9 @@ A concise documentation of the "Bugs network" topology and configuration for a m
 ## Authors
 - **Ndaedzo Mudau** — [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kxngHADES)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rudzani-mudau/)
 
-<!--
-- **Teammate Name** — [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-USERNAME-181717?logo=github&logoColor=fff)](https://github.com/USERNAME) • [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Teammate%20Name-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/TEAMPERSON/)
-- **Teammate Name** — [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-USERNAME-181717?logo=github&logoColor=fff)](https://github.com/USERNAME) • [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Teammate%20Name-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/TEAMPERSON/)
+
+- **Mandihlume Lesedi Bakubaki** — [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-USERNAME-181717?logo=github&logoColor=fff)](https://github.com/Mandii-lesedi) • [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Teammate%20Name-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mandihlume-lesedi-bakubaku-863a62319/)
+<!--- **Teammate Name** — [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-USERNAME-181717?logo=github&logoColor=fff)](https://github.com/USERNAME) • [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Teammate%20Name-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/TEAMPERSON/)
 -->
 
 
@@ -178,3 +178,4 @@ Best practices suggested
 - South, G., 2021. Configuration of DHCP on an ASA Firewall - Part FOUR. Available: https://www.youtube.com/watch?v=pBW1X6r5kNM&list=PLK-Bs6BGQBEP4HUmB1g27aIL4EPyXeLNx&index=5
 - Networkforyou, 2023. Cisco OSPF Cost Metric | How OSPF Calculates its Cost Metric | CCNA. Available: https://youtu.be/tsH7uvnSjxA
 - Orhan Ergun, 2023. Note on convergence and routing differences.
+
